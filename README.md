@@ -39,7 +39,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width ="40" heigth="40"/>
           </td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width ="40" heigth="40"/></td>
-     <td><img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg width ="40" heigth="40"/></td>
+     <td><img src="https://cdn.jsdelivr.net/npm/vue@3.3.4/dist/vue.global.min.js" width ="40" heigth="40"/></td>
   </tr>
   
 </tbody>
