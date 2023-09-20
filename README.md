@@ -1,5 +1,5 @@
 <h1 align="center">Meu nome é  Adriano Silva Belisio</h1>
-<h3 align="center">Eu sou Back-end developer/Full starck</h3>
+<h3 align="center">Eu sou: Back-end developer/Full starck developer</h3>
 
 
 
