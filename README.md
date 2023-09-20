@@ -1,9 +1,9 @@
-<h1 align="center">Meu nome é  Adriano Silva Belisio</h1>
-<h3 align="center">Eu sou: Back-end developer/Full starck developer</h3>
+<h1 align="center">olá, Meu nome é  Adriano Silva Belisio</h1>
+<h3 align="center">Sou desenvolvedor backend com mais de 20 anos de experiência. Já atuei também como desenvolvedor Full Stack</h3>
 
 
 
-- 📫 E-mail: **adrano.belisio@yahoo.com.br**
+<a href="adriano.belisio@yahoo.com.br" <img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" />  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
