@@ -16,6 +16,8 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /> 
 <img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+          
 </p>
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelisio&show_icons=true&locale=en&layout=compact" alt="abelisio" /></p>
