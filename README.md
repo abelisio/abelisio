@@ -16,6 +16,7 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /> 
 <img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
           
 </p>
