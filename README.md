@@ -30,7 +30,7 @@ Com mais de **20 anos de experiência** no desenvolvimento web, minha trajetóri
 > Linux, Docker, Composer.
 
 **Metodologias & Arquitetura**
-> Clean Code, MVC, Microsserviços.
+> Clean Code, MVC, Git, Github, Microsserviços.
 
 ---
 
