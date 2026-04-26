@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Olá, eu sou o Adriano 👋</h1>
-  <p><strong>Especialista Backend | Tech Lead | PhD em Engenharia</strong></p>
+  <p><strong>Full Stack com foco em Back end | Tech Lead </strong></p>
 </div>
 
 ---
 
 ### 🚀 Sobre Mim
 
-Com mais de **20 anos de experiência** no desenvolvimento web, minha trajetória une a prática robusta do mercado à profundidade acadêmica. Atuo como **Tech Lead** e **Backend Developer**, com expertise em arquiteturas escaláveis, modelagem de dados e liderança de times técnicos.
+Com mais de **20 anos de experiência** no desenvolvimento web, minha trajetória une a prática robusta do mercado à profundidade acadêmica. Atuo como **Tech Lead**, **Full Stack** e **Backend Developer**, com expertise em arquiteturas escaláveis, modelagem de dados e liderança de times técnicos.
 
-* 🎓 **Doutor e Mestre** em Engenharia Mecânica.
+* 🎓 **Doutor** em Engenharia Mecânica.
 * ⚛️ **Graduado em Física**, com sólida base em lógica e resolução de problemas complexos.
 * 💼 Especialista em migração de sistemas, integração de banco de dados e liderança técnica.
 
@@ -21,13 +21,13 @@ Com mais de **20 anos de experiência** no desenvolvimento web, minha trajetóri
 > PHP, Laravel, Python, R, JavaScript, C, C++, Fortran.
 
 **Frontend & Design**
-> HTML, CSS, Bootstrap.
+> HTML, CSS, Bootstrap, Vue.
 
 **Bancos de Dados**
 > MySQL, PostgreSQL, MongoDB.
 
 **Infraestrutura & Ambiente**
-> Linux, Docker.
+> Linux, Docker, Composer.
 
 **Metodologias & Arquitetura**
 > Clean Code, MVC, Microsserviços.
