@@ -7,33 +7,30 @@
 
 ### 🚀 Sobre Mim
 
-Com mais de **20 anos de experiência** no ecossistema de desenvolvimento web, minha trajetória une a prática robusta do mercado à profundidade acadêmica. Atuei como **Full Stack Developer** com foco estratégico em infraestrutura de **Back-end**, modelagem complexa de **Banco de Dados** e liderança técnica de equipes.
+Com mais de **20 anos de experiência** no desenvolvimento web, minha trajetória une a prática robusta do mercado à profundidade acadêmica. Atuo como **Tech Lead** e **Backend Developer**, com expertise em arquiteturas escaláveis, modelagem de dados e liderança de times técnicos.
 
 * 🎓 **Doutor e Mestre** em Engenharia Mecânica.
-* ⚛️ **Graduado em Física**, o que me deu uma base sólida para resolução de problemas lógicos e matemáticos.
-* 💼 Experiência em liderança, arquitetura de sistemas e migração de dados em larga escala.
+* ⚛️ **Graduado em Física**, com sólida base em lógica e resolução de problemas complexos.
+* 💼 Especialista em migração de sistemas, integração de banco de dados e liderança técnica.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</div>
+**Linguagens e Frameworks**
+> PHP, Laravel, Python, R, JavaScript, C, C++, Fortran.
+
+**Frontend & Design**
+> HTML, CSS, Bootstrap.
+
+**Bancos de Dados**
+> MySQL, PostgreSQL, MongoDB.
+
+**Infraestrutura & Ambiente**
+> Linux, Docker.
+
+**Metodologias & Arquitetura**
+> Clean Code, MVC, Microsserviços.
 
 ---
 
