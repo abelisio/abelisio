@@ -66,13 +66,13 @@ Projetos próprios, com código aberto, que demonstram práticas de arquitetura 
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens e Frameworks**
-`PHP` `Laravel` `Python` `R` `JavaScript` `C` `C++` `Fortran`
+`PHP` `Laravel` `Python` `R` `JavaScript` `C` `C++` `Fortran` `C#`
 
 **Frontend & Design**
 `HTML` `CSS` `Bootstrap` `Vue`
 
 **Bancos de Dados**
-`MySQL` `PostgreSQL` `MongoDB`
+`MySQL` `PostgreSQL` `MongoDB` `Sql Server`
 
 **Infraestrutura & Ambiente**
 `Linux` `Docker` `Composer`
