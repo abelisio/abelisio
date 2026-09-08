@@ -85,11 +85,6 @@ Projetos próprios, com código aberto, que demonstram práticas de arquitetura 
 ### 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelisio&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelisio&show_icons=true&locale=en&theme=vision-friendly-dark" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abelisio&theme=vision-friendly-dark" alt="Sequência de contribuições" />
 </p>
 
