@@ -43,7 +43,7 @@ Painel administrativo para cadastro de obras, galeria dinâmica de projetos, ví
 `Laravel` `MySQL` `Bootstrap`
 *Projeto de cliente — repositório privado.*
 
-**[Eventos Estácio](SEU_LINK_AQUI)** — Sistema de gestão de eventos
+**[Eventos Estácio](https://eventosestacio.site.je/?i=1)** — Sistema de gestão de eventos
 Inscrição de participantes, painel de controle e fluxo completo de gerenciamento de eventos.
 `PHP` `Laravel` `MySQL`
 *Projeto de cliente — repositório privado.*
